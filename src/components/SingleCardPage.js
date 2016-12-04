@@ -41,7 +41,7 @@ class SingleCardPage extends Component {
           </div>
         </div>
         <p></p>
-        <a href="/" className="btn btn-danger btn-lg">Back</a>
+        <a href="/" className="btn btn-warning btn-lg">Back</a>
       </div>
     );
   }

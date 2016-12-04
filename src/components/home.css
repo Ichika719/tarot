@@ -1,6 +1,6 @@
 
 .FirstPage {
-  padding-top: 120px;
+  padding-top: 100px;
   width:600px;
   margin-left: auto;
   margin-right: auto;
@@ -9,12 +9,17 @@
 .topic{
   color:red;
   font-size:40px;
-
 }
 .magic{
   width:300px;
   height:300px;
 }
 
-p{}
-div{}
+h1{
+	line-height:70px;
+}
+
+.pre{
+	font-size: 20px;
+}
+

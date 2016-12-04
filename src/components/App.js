@@ -29,7 +29,7 @@ class App extends Component {
   render() {
     return (
       <div className="app">
-        <nav className="navbar navbar-default">
+        <nav className="navbar navbar-inverse">
           <div className="navbar-header">
             <a className="navbar-brand" href="#">Tarot</a>
           </div>
